@@ -61,8 +61,8 @@ mapStruct leia_mapa(char caminhoDoArquivo[]){
     fclose(file);
     return map;
 }
+
 /* TEST CLIENT */
-/*
 int main(){
     mapStruct map;
     char String[MAX];
@@ -82,4 +82,3 @@ int main(){
     return 0;
 }
 
-*/
