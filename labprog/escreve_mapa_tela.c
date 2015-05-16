@@ -58,7 +58,7 @@ void escreve_mapa_tela(mapStruct map){
     }
 }
 
-
+/*
 int main(){
     mapStruct map;
     char localDoArquivo[MAX]; 
@@ -71,3 +71,4 @@ int main(){
     
     return 0;
 }
+*/
